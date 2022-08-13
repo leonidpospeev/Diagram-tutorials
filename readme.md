@@ -1,4 +1,4 @@
-Diagram tutorial
+**Diagram tutorials**
 
 A collection of diagrams from various tutorials on Youtube. Focuses mainly on UML, BPMN and Archimate.
 
