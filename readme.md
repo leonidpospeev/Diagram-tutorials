@@ -9,3 +9,5 @@ As of the date of the last commit, the list includes:
 - **BPMN folder**
     + BPMN 01: [BPMN Tutorial - Diagrams.net BPMN Example](https://youtu.be/_MzTijsoSe8)
     + BPMN 02: [Introduction to BPMN](https://youtu.be/NzKrwmO0ICA)
+- **UML folder**
+    + UML 01: [Sequence Diagram - Step by Step Guide with Example](https://youtu.be/_Mzi1rYtI5U)
